@@ -1,0 +1,14 @@
+#content {position:absolute;height:600px;width:690px;left:0%}
+#image {max-width:600px;max-height:600px;display:none}
+#right-arrow {position:relative; width:40px;float:right;top:30%}
+#left-arrow {position:relative; width:40px;float:left;top:30%}
+#image-loading {position:relative; float:left; height:50px;width:50px;left:40%;top:40%}
+#player1 {display:block}
+#player2 {display:block}
+#player3 {display:none}
+#player4 {display:none}
+#player5 {display:none}
+#player6 {display:none}
+#player7 {display:none}
+#player8 {display:none}
+
